@@ -1,4 +1,4 @@
-#Leetcode Excercises
+# Leetcode Excercises
 
 This repo is going to contain the Leetcode problems that I solve. I will try to solve it first with the first idea that it cames to my mind. After that , the idea is to search the best posible solution. If I don't find an optimal solution after a couple of days, I will search for the optimal solution, analyses it and then write it here too.
 
